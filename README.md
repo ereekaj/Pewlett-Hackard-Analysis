@@ -1,11 +1,16 @@
 # Pewlett Hackard Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
-Pewlett Hackard is a large company and want to plan for the upcoming retirements of their employees. I've been helping Bobby, an HR analyst, with some employee research to help leadership figure out how many employees will be retiring soon. The purpose of this analysis is to use SQL to create databases and determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
+## Overview of the analysis: 
+Pewlett Hackard is a large company that wants to plan for the upcoming retirements of many of their employees. I've been helping Bobby, an HR analyst, with some employee research to help leadership figure out how many employees will reach retirement age. The purpose of this analysis is to create databases and determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-1.
-2. 
+
+1. Over 72,000 employees will be eligible to retire.
+2. The majority, over 50,000, of those are in Senior positions like Senior Engineer and Senior Staff.
+
+Below is a screenshot from the retiring_titles.csv database showing these numbers. 
+
+
 3.
 4.
 
